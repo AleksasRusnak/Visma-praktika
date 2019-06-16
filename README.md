@@ -1,4 +1,4 @@
-# PRAKTIKOS UŽDUOTIS [MEMMORY PUZZLE]
+# PRAKTIKOS UŽDUOTIS [MEMORY PUZZLE]
 
 ![alt text](https://github.com/AleksasRusnak/Visma-praktika/blob/master/VISMA%20PREV.png)
 
