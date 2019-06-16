@@ -1,5 +1,6 @@
 # PRAKTIKOS UŽDUOTIS [MEMMORY PUZZLE]
 
+![alt text](https://github.com/AleksasRusnak/Visma-praktika/blob/master/VISMA%20PREV.png)
 
 ## Features:
 ##### - Responsive
